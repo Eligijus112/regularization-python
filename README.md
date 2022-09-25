@@ -10,4 +10,6 @@ The data is obtained from Kaggle via https://www.kaggle.com/datasets/harlfoxem/h
 
 # The model 
 
-We will fit a linear regression, lasso and ridge models to predict the price of a house based on the features in the dataset. 
+We will fit a lasso and ridge models to predict the price of a house based on the features in the dataset.
+
+Lasso and ridge will be implemeneted in sklearn and tensorflow.
